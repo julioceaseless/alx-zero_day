@@ -1,1 +1,0 @@
-Git markdown cheatsheet
